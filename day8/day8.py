@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import unittest
 
 def distsq(x,y):

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import unittest
 
 def veins(coord_y, coord_x):

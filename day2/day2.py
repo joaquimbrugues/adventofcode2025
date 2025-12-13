@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import unittest
 
 def invalid_ids(range_a, range_b):

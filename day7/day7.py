@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import unittest
 
 def part1(file):
